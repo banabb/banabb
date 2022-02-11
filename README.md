@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bheem Singh 
 - 👀 Love to code and cofee
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 Full Stack Development
 - 💞️ I’m looking to collaborate on some projects to share my knowledge
 - 📫 You can reach me at banabittu71@gmail.com
 
